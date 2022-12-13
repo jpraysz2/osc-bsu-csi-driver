@@ -30,7 +30,7 @@ GO111MODULE := on
 GOPROXY := direct
 TRIVY_IMAGE := aquasec/trivy:0.30.0
 
-OSC_REGION ?= eu-west-2
+OSC_REGION ?= cloudgouv-eu-west-1
 
 .EXPORT_ALL_VARIABLES:
 
