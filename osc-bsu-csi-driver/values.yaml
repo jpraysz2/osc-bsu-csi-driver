@@ -143,7 +143,7 @@ extraVolumeTags: {}
 extraCreateMetadata: false
 
 # -- Region to use, otherwise it will be looked up via metadata. By providing this parameter, the controller will not require to access the metadata.
-region: ""
+region: "cloudgouv-eu-west-1"
 
 # -- Maximum volume to attach to a node (see [Docs](https://docs.outscale.com/en/userguide/About-Volumes.html))
 maxBsuVolumes: "25"
